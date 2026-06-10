@@ -252,6 +252,4 @@ Retries use exponential back-off. `4xx` errors (except 429) are never retried.
 
 ## License
 
-**KosovoPay License 1.0** — free to use, including commercially, at no charge.
-Modifying, forking, redistributing, or reverse-engineering the SDK is **not**
-permitted; it is maintained solely by KosovoPay. See [LICENSE](LICENSE).
+[MIT](LICENSE) © KosovoPay — free and open source.

@@ -9,6 +9,7 @@ require (
 
 require golang.org/x/net v0.43.0 // indirect
 
-// v1.0.0 was published under the MIT license. It is superseded by v1.1.0+,
-// which are licensed under the KosovoPay License. v1.0.0 is retracted.
-retract v1.0.0
+retract (
+	v1.0.0 // Superseded; please use the latest version.
+	v1.1.1 // Published under a restrictive license; relicensed to MIT in v1.1.2.
+)
