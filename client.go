@@ -14,7 +14,7 @@ import (
 
 const (
 	// Version is the SDK version.
-	Version = "1.0.0"
+	Version = "1.1.0"
 	// DefaultBaseURL is the KosovoPay API base URL.
 	DefaultBaseURL = "https://api.kosovo.sh"
 	// DefaultAPIVersion is the Kosovopay-Version header value.
