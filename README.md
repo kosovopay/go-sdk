@@ -2,6 +2,8 @@
 
 Official Go SDK for the [KosovoPay](https://kosovo.sh) payment API.
 
+📖 **API reference:** https://pay.kosovo.sh/docs
+
 ## Requirements
 
 - Go 1.23 or later
